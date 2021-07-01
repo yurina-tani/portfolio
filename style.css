@@ -347,11 +347,14 @@ img{
 #career{
     background-image: url(image/bg2.png);
     background-size: 100% 100%;
+    color: #3a1e0c;
 
 }
 .career-item{
     display: flex;
     border-bottom: 1px dotted #3a1e0c;
+    margin-top: 10px;
+    padding-bottom: 10px;
 }
 
 .career-item dd{
