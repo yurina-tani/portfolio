@@ -660,8 +660,10 @@ footer{
         height: 220px;
     }
 
-
-    
+    .works-list1,
+    .works-list2{
+        display: block;
+    }
     
     
     #skills figure{
