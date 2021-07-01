@@ -662,7 +662,10 @@ footer{
         display: block;
     }
     
-    
+    .hover-parent+.hover-parent{
+        margin-left: 0;
+    }
+
     
     #skills figure{
         margin-right: 2em;
