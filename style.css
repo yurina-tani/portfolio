@@ -395,15 +395,12 @@ figcaption.hover-mask:hover {
     padding-top: 0;
 }
 
-.works-list1{
-    display: flex;
-    justify-content: center;
-}
-
+.works-list1,
 .works-list2{
     display: flex;
     justify-content: center;
 }
+
 
 
 /*==================================================
@@ -616,7 +613,7 @@ footer{
 @media (max-width:428px){
     
     .wrapper{
-        padding: 100px 1.5em;
+        padding: 100px 16px;
     }
     
     
@@ -631,7 +628,7 @@ footer{
     
     
     #career{
-        font-size: 12px;
+        font-size: 14px;
     }
     
     .career-item{
