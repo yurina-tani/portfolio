@@ -380,6 +380,7 @@ figcaption.hover-mask {
     left: 0;
     right: 0;
     background: rgba(0,0,0,0.5);
+    border-radius: 20px;
     opacity: 0;
     color: #fff;
     display: flex;
@@ -394,7 +395,15 @@ figcaption.hover-mask:hover {
     padding-top: 0;
 }
 
+.works-list1{
+    display: flex;
+    justify-content: center;
+}
 
+.works-list2{
+    display: flex;
+    justify-content: center;
+}
 
 
 /*==================================================
