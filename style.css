@@ -640,6 +640,21 @@ footer{
     }
     
     
+    
+    figure.hover-parent {
+        width: 300px;
+        height: 220px;
+    }
+
+    figcaption.hover-mask {
+        width: 300px;
+        height: 220px;
+    }
+
+
+    
+    
+    
     #skills figure{
         margin-right: 2em;
         min-width: 40px;
