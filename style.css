@@ -604,7 +604,14 @@ footer{
 /* PCここまで------------------------------ */
 
 /* SP */
-@media (max-width:600px){
+@media (max-width:428px){
+    
+    .wrapper{
+        padding: 100px 1.5em;
+    }
+    
+    
+    
     
     .profile-pc{
         display: none;
@@ -614,13 +621,29 @@ footer{
     }
     
     
+    #career{
+        font-size: 10px;
+    }
+    
+    .career-item dd {
+        margin-right: 20px;
+    }
     
     
-
+    #skills figure{
+        margin-right: 2em;
+        min-width: 40px;
+    }
     
+    #skills figcaption{
+        font-size: 10px;
+    }
     
+    .web{
+        font-size: 12px;
+    }
     
-    
-    
-    
+    #skills h2{
+        font-size: 18px;
+    }
 }
