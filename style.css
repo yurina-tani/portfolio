@@ -650,17 +650,20 @@ footer{
     figure.hover-parent {
         width: 300px;
         height: 220px;
+        margin-right: auto;
+        margin-left: auto;
     }
 
     figcaption.hover-mask {
         width: 300px;
         height: 220px;
     }
-
+    
     .works-list1,
     .works-list2{
         display: block;
     }
+    
     
     
     #skills figure{
