@@ -627,6 +627,8 @@ footer{
     
     .career-item{
         display: block;
+        margin-top: 10px;
+        padding-bottom: 10px;
     }
     
     .career-item dd {
