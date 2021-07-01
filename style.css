@@ -343,15 +343,17 @@ img{
 .career-item{
     display: flex;
     border-bottom: 1px dotted #3a1e0c;
-    margin-top: 10px;
-    padding-bottom: 10px;
+    margin-top: 15px;
+    padding-bottom: 15px;
 }
 
 .career-item dd{
     margin-right: 50px;
 }
 
-
+.sns{
+    padding-bottom: 50px;
+}
 
 
 
@@ -394,6 +396,9 @@ figcaption.hover-mask:hover {
     justify-content: center;
 }
 
+.hover-parent+.hover-parent{
+    margin-left: 100px;
+}
 
 
 /*==================================================
