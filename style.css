@@ -663,7 +663,7 @@ footer{
     }
     
     .hover-parent+.hover-parent{
-        margin-left: 0;
+        margin-left: auto;
     }
 
     
